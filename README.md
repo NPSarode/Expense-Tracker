@@ -1,2 +1,30 @@
-# Expense-Tracker
-Expense Tracker is a web application that helps users manage their personal finances by tracking income and expenses. It provides intuitive dashboards, real-time balance updates, and categorized transaction history for better financial planning. Built with React.js, Node.js, and MongoDB for a seamless full-stack experience.
+# 💰 Expense Tracker
+
+**Expense Tracker** is a web application that helps users manage their personal finances by tracking income and expenses. It features intuitive dashboards, real-time balance updates, and categorized transaction history, empowering users to make informed financial decisions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **React.js** – Component-based UI
+- **Tailwind CSS** – Modern utility-first CSS
+- **Redux** *(optional)* – For state management (if used)
+
+### Backend
+- **Node.js** – Runtime environment
+- **Express.js** – Web framework
+
+### Database
+- **MongoDB** – NoSQL database
+
+---
+
+## 🚀 Features
+
+- 📊 **Dashboard** with income, expenses, and balance
+- ➕ Add, edit, and delete transactions
+- 📂 Categorized transaction history
+- 🔐 Secure authentication (JWT-based)
+- ⚡ Real-time balance updates
+
