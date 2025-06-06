@@ -9,14 +9,13 @@
 ### Frontend
 - **React.js** – Component-based UI
 - **Tailwind CSS** – Modern utility-first CSS
-- **Redux** *(optional)* – For state management (if used)
 
 ### Backend
 - **Node.js** – Runtime environment
 - **Express.js** – Web framework
 
 ### Database
-- **MongoDB** – NoSQL database
+- **Postgres** 
 
 ---
 
